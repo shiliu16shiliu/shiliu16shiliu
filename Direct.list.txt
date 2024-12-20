@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
-#wogg
+# wogg
 DOMAIN-SUFFIX,wogg.net
 
 # 360
