@@ -12,8 +12,11 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
 
-# wogg
+# wogg影视域名
 DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,wogg.xxooo.cf
+DOMAIN-SUFFIX,tv.yydsys.top
+DOMAIN-SUFFIX,res.yunpan.win
 
 # 360
 DOMAIN-SUFFIX,360.com
