@@ -1,11 +1,6 @@
 {
     "plugins": [
         {
-            "name": "种子",
-            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
-            "version": "0.1.0"
-        },
-        {
             "name": "酷我音乐",
             "url": "https://mf.ikunshare.com/kw/index.js",
             "version": "0.1.0"
@@ -39,6 +34,11 @@
             "name": "小蜜音乐",
             "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaomi.js",
             "version": "0.0.2"
+        },
+        {
+            "name": "种子",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
+            "version": "0.1.0"
         }
     ]
 }
