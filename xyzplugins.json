@@ -1,19 +1,44 @@
 {
-  "plugins": [
-    {
-      "name": "种子",
-      "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "酷我音乐",
-      "url": "https://mf.ikunshare.com/kw/index.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "酷狗音乐",
-      "url": "https://mf.ikunshare.com/kg/index.js",
-      "version": "0.1.0"
-    }
-  ]
+    "plugins": [
+        {
+            "name": "种子",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/zz.js",
+            "version": "0.1.0"
+        },
+        {
+            "name": "酷我音乐",
+            "url": "https://mf.ikunshare.com/kw/index.js",
+            "version": "0.1.0"
+        },
+        {
+            "name": "酷狗音乐",
+            "url": "https://mf.ikunshare.com/kg/index.js",
+            "version": "0.1.0"
+        },
+        {
+            "name": "小枸音乐",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaogou.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "小秋音乐",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoqiu.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "小芸音乐",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaoyun.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "小蜗音乐",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaowo.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "小蜜音乐",
+            "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/xiaomi.js",
+            "version": "0.0.2"
+        }
+    ]
 }
