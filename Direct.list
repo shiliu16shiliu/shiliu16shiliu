@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,crabpt.vip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
