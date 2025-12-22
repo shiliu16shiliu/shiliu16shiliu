@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,imgtool.v1.mk
 DOMAIN-SUFFIX,pan.v1.mk
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,gctf.tfdh.top
+DOMAIN-SUFFIX,sharepoint.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
