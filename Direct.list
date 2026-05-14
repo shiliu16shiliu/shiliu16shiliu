@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,xiaoya.host
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,ktm001.club
 DOMAIN-SUFFIX,api2.cursor.sh
+DOMAIN-SUFFIX,api3.cursor.sh
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
